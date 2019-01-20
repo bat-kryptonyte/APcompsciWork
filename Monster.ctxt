@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=
+comment1.target=boolean\ vis()
+comment2.params=
+comment2.target=Monster()
+comment3.params=
+comment3.target=int\ getXPos()
+comment4.params=
+comment4.target=int\ getYPos()
+comment5.params=
+comment5.target=int\ getSpeed()
+comment6.params=a
+comment6.target=void\ setSpeed(int)
+comment7.params=a
+comment7.target=void\ setXPos(int)
+comment8.params=a
+comment8.target=void\ setYPos(int)
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Armor
+comment1.params=a
+comment1.target=Armor(int)
+comment2.params=
+comment2.target=int\ getreturnDamage()
+numComments=3

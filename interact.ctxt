@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=interact
+comment1.params=Object
+comment1.target=interact(java.lang.Object[][])
+comment2.params=a\ b
+comment2.target=boolean\ checkNorthM(int,\ int)
+comment3.params=a\ b
+comment3.target=boolean\ checkSouthM(int,\ int)
+comment4.params=a\ b
+comment4.target=boolean\ checkEastM(int,\ int)
+comment5.params=a\ b
+comment5.target=boolean\ checkWestM(int,\ int)
+numComments=6
